@@ -28,3 +28,6 @@
 /* Keep decorative orbital lines inside narrow-phone illustration bounds. */
 @media(max-width:370px){.hero-visual{overflow:clip}}
 @media(max-width:650px){.hero-visual{overflow:clip}}
+/* Additional hands-on experience, using the existing skills and work components. */
+.skills-grid>.skill-note{grid-column:1/-1;display:grid;grid-template-columns:42px auto 1fr;gap:20px;align-items:center}.skills-grid>.skill-note .small-orbit,.skills-grid>.skill-note h3{margin:0}.hands-on-work{margin-top:0;margin-bottom:28px}.hands-on-work p:last-child{max-width:900px}
+@media(max-width:650px){.skills-grid>.skill-note{grid-template-columns:34px 1fr;gap:12px 16px}.skills-grid>.skill-note p{grid-column:2}}

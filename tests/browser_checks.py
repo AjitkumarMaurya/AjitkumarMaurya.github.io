@@ -41,7 +41,7 @@ with sync_playwright() as p:
     assert page.locator('h1').count() == 1
     assert page.locator('main > section').count() == 8
     assert page.locator('.product').count() == 5
-    assert page.locator('.skill-card').count() == 7
+    assert page.locator('.skill-card').count() == 8
     assert page.locator('.timeline-item').count() == 5
     assert page.locator('.highlights-grid article').count() == 3
     passed('all requested sections and five product stories render')

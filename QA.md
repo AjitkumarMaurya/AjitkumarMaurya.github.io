@@ -5,7 +5,7 @@ Validated 4 November 2026 against the local working tree in Chromium 155. The ch
 ## Delivered
 
 - Charcoal/indigo visual system and persistent light/dark themes; local system typography, technology logos and original interface illustration.
-- Complete hero, five published product stories, about, seven skill categories, leadership journey, open-source explorer, engineering highlights and contact sections.
+- Complete hero, five published product stories, about, eight skill categories, leadership journey, open-source explorer, engineering highlights and contact sections.
 - Confirmed email, GitHub links and downloadable one-page tagged profile PDF. No invented career dates, employers, credentials, testimonials, metrics or per-product technology assignments.
 - Genuine existing Google Play image URLs, screenshot dialogs and explicit image fallbacks. Personal contributions are separated from publisher ownership.
 - Search, technology/language filters, sorting, curated original work first and opt-in forks. Local JSON snapshot, bounded public refresh, timeouts, and safe handling of API text and URLs.
@@ -16,7 +16,7 @@ Validated 4 November 2026 against the local working tree in Chromium 155. The ch
 
 All 14 check groups completed using `tests/browser_checks.py`, including four axe scans:
 
-- All sections, five products, seven skills and five leadership practice areas render.
+- All sections, five products, eight skills and five leadership practice areas render.
 - Repository search, no-results state, reset, Android/Flutter/Kotlin/experiment filters, language filters, fork separation and alphabetical sorting.
 - Every in-page fragment resolves; original public section and product anchors remain. PDF CTAs return a real PDF; email CTAs use the supplied address. New-tab links include `noopener`.
 - Screenshot dialog opens, Escape closes it, focus returns to the initiating link, and original artwork remains linked.
