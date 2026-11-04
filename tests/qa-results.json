@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-04",
+  "scope": "Local working tree validation before publication",
+  "browser_checks": {
+    "passed": [
+      "all requested sections and five product stories render",
+      "search, empty state, reset, technology/language filters, fork separation and sorting",
+      "all fragment links, preserved URLs, email, PDF download and external-link safety",
+      "screenshot dialog, Escape, return focus and original artwork link",
+      "axe accessibility: desktop dark reduced motion",
+      "axe accessibility: desktop light",
+      "theme toggles, labels update and preference survives reload",
+      "all sections at seven viewport widths (320\u20131920px), no horizontal overflow, mobile navigation",
+      "axe accessibility: mobile light with open navigation",
+      "axe accessibility: mobile dark",
+      "SEO, structured data, local assets and zero uncaught JavaScript errors",
+      "usable without JavaScript, including mobile navigation",
+      "motion pause/resume and live OS reduced-motion preference changes",
+      "successful GitHub refresh and safe handling of untrusted API text/URLs"
+    ],
+    "accessibility": [
+      {
+        "state": "desktop dark reduced motion",
+        "violations": [],
+        "passes": 47,
+        "incomplete": 3
+      },
+      {
+        "state": "desktop light",
+        "violations": [],
+        "passes": 47,
+        "incomplete": 2
+      },
+      {
+        "state": "mobile light with open navigation",
+        "violations": [],
+        "passes": 47,
+        "incomplete": 2
+      },
+      {
+        "state": "mobile dark",
+        "violations": [],
+        "passes": 47,
+        "incomplete": 2
+      }
+    ],
+    "remote_artwork": "Blocked deliberately in offline resilience checks; separate network check required."
+  },
+  "lighthouse": {
+    "mobile": {
+      "version": "13.6.0",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 96,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": {
+          "value": 1201.3369000000002,
+          "unit": "millisecond",
+          "display": "1.2\u00a0s"
+        },
+        "largest-contentful-paint": {
+          "value": 1201.3369000000002,
+          "unit": "millisecond",
+          "display": "1.2\u00a0s"
+        },
+        "total-blocking-time": {
+          "value": 9,
+          "unit": "millisecond",
+          "display": "10\u00a0ms"
+        },
+        "cumulative-layout-shift": {
+          "value": 0,
+          "unit": "unitless",
+          "display": "0"
+        },
+        "speed-index": {
+          "value": 1201.3369000000002,
+          "unit": "millisecond",
+          "display": "1.2\u00a0s"
+        }
+      },
+      "console_errors": "Remote artwork and API requests failed with ERR_TUNNEL_CONNECTION_FAILED; no uncaught application JavaScript exceptions in regression checks."
+    },
+    "desktop": {
+      "version": "13.6.0",
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 96,
+        "seo": 100
+      },
+      "metrics": {
+        "first-contentful-paint": {
+          "value": 295.4927,
+          "unit": "millisecond",
+          "display": "0.3\u00a0s"
+        },
+        "largest-contentful-paint": {
+          "value": 295.4927,
+          "unit": "millisecond",
+          "display": "0.3\u00a0s"
+        },
+        "total-blocking-time": {
+          "value": 0,
+          "unit": "millisecond",
+          "display": "0\u00a0ms"
+        },
+        "cumulative-layout-shift": {
+          "value": 0,
+          "unit": "unitless",
+          "display": "0"
+        },
+        "speed-index": {
+          "value": 370.03828308749013,
+          "unit": "millisecond",
+          "display": "0.4\u00a0s"
+        }
+      },
+      "console_errors": "Remote artwork and API requests failed with ERR_TUNNEL_CONNECTION_FAILED; no uncaught application JavaScript exceptions in regression checks."
+    }
+  },
+  "external_links": [
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.mycompany.fhpl&hl=en&gl=IN",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.mycompany.attendance&hl=en&gl=IN",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.smartsociety.group&hl=en&gl=IN",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.fincasys.fincasysapp&hl=en&gl=IN",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.myassociation&hl=en&gl=IN",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://play.google.com/store/apps/dev?id=6873193305307406392",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://ajitkumarmaurya.github.io/",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    }
+  ]
+}

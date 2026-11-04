@@ -1,0 +1,77 @@
+[
+  {
+    "key": "myco",
+    "name": "MyCo HRMS",
+    "intro": "Workforce management, connected.",
+    "description": "An enterprise HRMS platform connecting attendance, shifts, leave, work reports, documents and employee communication.",
+    "contribution": "I contribute as Lead & Core Developer across the mobile experience, API integration and ongoing product delivery. My work connects business requirements with maintainable Android implementation.",
+    "icon": "https://play-lh.googleusercontent.com/Dolt_O_0GVLUikIvh0CumhhYsPD-phhDGLcLlAJtMAcMpihSXGmSHu66mwuHyy8l2vL8Gzv92lS8Wb4BQ3a4-g=w240-h480",
+    "images": [
+      "https://play-lh.googleusercontent.com/ZsbBQgutQWqoBJG-zsxR45S3xs1N2T6hCmIuwqAAo014s5vM_GGQzE1sQmv4KO1vm3q6YUmtdrkehe0APUb-xQ=w600-h1200",
+      "https://play-lh.googleusercontent.com/P1Rhvx7NnBE-3NLTeM30sNlghpEja4G3GBwIAuHCSiDVcJvot52JlP-Xh2oTcb5g5zkL-IHv2l48GmmNlFSIcw=w600-h1200",
+      "https://play-lh.googleusercontent.com/G4TgCz3yi6y2Q7jd2ObU51SzkJ5ENyEXFoyAiz7kythGhrAXwIVgKYwbvEgsyb-7Y7CZrD6c8e8rkKCsuqx1=w600-h1200"
+    ],
+    "store": "https://play.google.com/store/apps/details?id=com.mycompany.fhpl&hl=en&gl=IN",
+    "publisher": "Communities Heritage Limited (CHL Group)"
+  },
+  {
+    "key": "lens",
+    "name": "Lens MyCo",
+    "intro": "Attendance with a human face.",
+    "description": "Face recognition attendance for Android phones and tablets, with attendance records synchronized to the myCo platform.",
+    "contribution": "As Lead & Core Developer, I work on the mobile attendance experience and its integration with myCo, connecting on-device interaction with workforce records.",
+    "icon": "https://play-lh.googleusercontent.com/AWiHPm4XJNkkFOTvxHa8TaqOw0HO1xeXdsyXgd07Jcy1UQKzla2yZnuJaoN7V1s3J5iqlNme5e_K4L2KOT2lGVU=w240-h480",
+    "images": [
+      "https://play-lh.googleusercontent.com/IuyMgjKnYP2fcTgV3zxdo30jDQf_ib5A9tNXTkGjVCNBeB5yjLcXsU_D3V1wHbjjKb2YDWuFriWq8C-ePVTWGg=w600-h1200",
+      "https://play-lh.googleusercontent.com/dL-mpdwT6ltj_n1939-Pak6avSZl2OgT8KsskYE1Fig62dAhYk4ZieNSdUugboUSh2dZa_VQoLUCalCfDr-ZUw=w600-h1200",
+      "https://play-lh.googleusercontent.com/6WEtvi4XVBGNkuHZ9wIuLEggnIlKlvraKwsaeNOvN788BTNrH1zD2pMRMkwGcrMOufMzl54_dLT5MDrChnCH84I=w600-h1200"
+    ],
+    "store": "https://play.google.com/store/apps/details?id=com.mycompany.attendance&hl=en&gl=IN",
+    "publisher": "Communities Heritage Limited (CHL Group)"
+  },
+  {
+    "key": "society",
+    "name": "Smart Society",
+    "intro": "A better everyday community.",
+    "description": "A residential community platform connecting member directories, events, visitors, maintenance and everyday communication.",
+    "contribution": "As Lead & Core Developer, I help turn resident and community workflows into a coherent mobile experience, working with the team on implementation and delivery.",
+    "icon": "https://play-lh.googleusercontent.com/qQJoSKxXPaFcP3NWfVJYB0jKe_mFSe5O2vn3nsNrTRIeA_41CWCs-kz-F1aS3v6CyM5A9Sbt7SyuY34-HAufJEQ=w240-h480",
+    "images": [
+      "https://play-lh.googleusercontent.com/f2o0Fb_zq-GFI6w0Hy2MfxuudrWugQqCbCWeUwYogrHdf3TijyESio3RwkxbYkKjpB7_4FDYvteV06LbdCa3Ew=w600-h1200",
+      "https://play-lh.googleusercontent.com/USnJka_MRT-GJNICGJSn2iKAyTv404DgKuddEdAHuCkzNhVDf5Q34PPIbnvYPww7g5SWsJflBmFsaDT4oF_oGg=w600-h1200",
+      "https://play-lh.googleusercontent.com/lyJoeWPWNb4lm4tB8PuhR1yVzrH7H404KMU9285rCxVAdOlIVA5-zg2MREnXu4qG1nraWh2MKj-Daash8hJf=w600-h1200"
+    ],
+    "store": "https://play.google.com/store/apps/details?id=com.smartsociety.group&hl=en&gl=IN",
+    "publisher": "Communities Heritage Limited (CHL Group)"
+  },
+  {
+    "key": "fincasys",
+    "name": "Fincasys",
+    "intro": "Less friction. More community.",
+    "description": "Society and community management bringing residents, maintenance collections, communication and security workflows together.",
+    "contribution": "As Lead & Core Developer, I contribute to the mobile product and integration of resident, collection and security workflows.",
+    "icon": "https://play-lh.googleusercontent.com/sdR2Gw6pg79PlNvxoLvdCWbn2nu5aBjCnpt10IHBaJLhqlKcZF5pj5fnwzmXW-1aT1trkApb38d-jjVyKqECIg=w240-h480",
+    "images": [
+      "https://play-lh.googleusercontent.com/Szskr7KVm0WRACMLL5IwbjEXPu_UURXYFlqTJKc34GrRthFCaN3XfYAv1s_EzEfzqmlGUX1u7Cvdr-GAiPtgbOc=w600-h1200",
+      "https://play-lh.googleusercontent.com/3fJUOtjoFMrQzJNVd0vs-GMq_zFxHWmE1jFn-3i_rNsaJkMgX_cMFdgqgNGXNO75_cSqrEj3lYAfWPIldLxVng=w600-h1200",
+      "https://play-lh.googleusercontent.com/RiOnlilQxB9Zf_Kla7VeZxPQEDNY2j81TAe6XV2ClVSSIBzjdD1weIxncG9KrsVXyJ-pnliQltDA8VAnWraAjw=w600-h1200"
+    ],
+    "store": "https://play.google.com/store/apps/details?id=com.fincasys.fincasysapp&hl=en&gl=IN",
+    "publisher": "Fincasys Heritage Private Limited"
+  },
+  {
+    "key": "association",
+    "name": "My Association",
+    "intro": "Bring the whole network together.",
+    "description": "A shared space for association member directories, events, notices, discussions, polls and communication.",
+    "contribution": "As Lead & Core Developer, I contribute to member-facing mobile experiences and the communication workflows that connect associations.",
+    "icon": "https://play-lh.googleusercontent.com/Pt5SwqmokZAmQD1pd7CPtOe6BN9eavs-1hzcUWWRuWaYjJ5upORMji9VuC0ZEtAr3GUR3SZ6dIjnDwciPnEkCQ=w240-h480",
+    "images": [
+      "https://play-lh.googleusercontent.com/KQ3qz71cJBw5iklmnX-7WSSeDY5FIEXcixTI9wUgS4gxoHlzN7oLa_NY_szA6g2OYgHYM85oT9ke96QWXg3Y=w600-h1200",
+      "https://play-lh.googleusercontent.com/NQGPHJprj86sgfTk7a3NLyYSlvbOLuMe60JRHl2JRnf07z9Mn3SmjZHR68pUxyizx-qRYu2wRrcy1s-bwud1Cw=w600-h1200",
+      "https://play-lh.googleusercontent.com/ejxCN3TvXAgd8Npn0WTD4gJdPglMEkZjk7_ZfOcOHVdKHpo8EecdNzhr82Z0GOavV09yWPG577xo6Xes5TV9nA=w600-h1200"
+    ],
+    "store": "https://play.google.com/store/apps/details?id=com.myassociation&hl=en&gl=IN",
+    "publisher": "Communities Heritage Limited (CHL Group)"
+  }
+]
