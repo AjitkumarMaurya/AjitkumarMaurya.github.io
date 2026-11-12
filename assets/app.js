@@ -108,10 +108,10 @@ let manuallyPaused = false;
 let rotationTimer;
 let wordIndex = 0;
 const expertise = [
-  'Native Android development',
-  'Flutter & cross-platform apps',
   'Technical leadership',
-  'AI & mobile integrations'
+  'Generative AI and RAG',
+  'Multi-agent systems',
+  'Native Android development'
 ];
 
 function syncMotion() {

@@ -930,6 +930,53 @@ p { margin: 0 0 16px; }
   margin: 0;
 }
 
+#now { scroll-margin-top: 100px; }
+.now-header { margin-bottom: 36px; }
+.now-header .eyebrow { margin-bottom: 14px; }
+.now-header h2 { margin: 0 0 16px; }
+.now-lead {
+  font-size: 18px;
+  line-height: 1.6;
+  color: var(--muted);
+  max-width: 62ch;
+  margin: 0;
+}
+.now-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+  align-items: stretch;
+}
+.now-card-note {
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--muted);
+  margin: 0 0 18px;
+}
+.now-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.now-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.now-list .icon {
+  color: var(--accent);
+  width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  flex-shrink: 0;
+}
+
 .expertise-tiers {
   display: grid;
   grid-template-columns: 1.12fr 0.88fr;
@@ -1363,10 +1410,12 @@ p { margin: 0 0 16px; }
     min-height: 0;
   }
   .hero-visual { display: none; }
+  .now-grid { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 650px) {
   html { scroll-padding-top: 84px; }
+  #now { scroll-margin-top: 84px; }
   .hero h1 { font-size: clamp(32px, 8.2vw, 44px); }
   .hero-intro { font-size: 17px; }
   .hero-bottom {
@@ -1447,6 +1496,7 @@ p { margin: 0 0 16px; }
   .hero { display: block; min-height: 0; padding: 20px 0; }
   .product,
   .about-grid,
+  .now-grid,
   .expertise-tiers,
   .contact-card { display: block; break-inside: avoid; }
   .product-story,
